@@ -1,3 +1,10 @@
+dconf-editor (3.20.3-1utopia1) UNRELEASED; urgency=medium
+
+  * Cherry-picked from official Debian packaging:
+    - From 3.21.90-2: Bump debhelper compat level to 10.
+
+ -- James Lu <bitflip3@gmail.com>  Sun, 12 Feb 2017 23:25:25 -0800
+
 dconf-editor (3.20.3-1) unstable; urgency=medium
 
   * New upstream release.
