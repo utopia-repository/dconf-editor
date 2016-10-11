@@ -2,6 +2,8 @@ dconf-editor (3.20.3-1utopia1) UNRELEASED; urgency=medium
 
   * Cherry-picked from official Debian packaging:
     - From 3.21.90-2: Bump debhelper compat level to 10.
+    - From 3.22.1-1:  Drop dh_install override. The use of --list-missing is
+                      not useful with only a single binary package.
 
  -- James Lu <bitflip3@gmail.com>  Sun, 12 Feb 2017 23:25:25 -0800
 
